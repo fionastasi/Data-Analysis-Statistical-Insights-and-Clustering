@@ -1,4 +1,4 @@
-Overview
+# Overview
 This project involves analyzing a dataset of Amazon's top 50 bestselling books from 2009 to 2019. The dataset includes various attributes such as book name, author, user rating, reviews, price, and genre (fiction/non-fiction). The analysis covers statistical summaries, correlations, and clustering to uncover insights and segment the data.
 
 Data Description
@@ -42,11 +42,11 @@ K-Means Clustering:
 Cluster Analysis:
   Analyze and describe the characteristics of each cluster.
 
-Conclusion
+# Conclusion
   Key Findings: Summarize insights from statistical analysis and clustering.
   Cluster Characteristics: Describe each segment based on the cluster analysis.
 
-Requirements
+# Requirements
 Libraries: Ensure the following libraries are installed:
   matplotlib
   seaborn
@@ -56,7 +56,7 @@ Libraries: Ensure the following libraries are installed:
   scikit-learn
   plotly
 
-Getting Started
+# Getting Started
 Upload the dataset to your environment.
 Run the provided Python script to perform the analysis and clustering.
 Review the generated plots and clustering results.
